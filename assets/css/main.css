@@ -326,7 +326,7 @@ input:focus, input:focus-visible { box-shadow: none; }
 .bg-main-300 { background-color: var(--main-300) !important; }
 .bg-main-400 { background-color: var(--main-400) !important; }
 .bg-main-500 { background-color: var(--main-500) !important; }
-.bg-main-600 { background-color: var(--main-600) !important; }
+.bg-main-600 { background-color: #6a38df !important }
 .bg-main-700 { background-color: var(--main-700) !important; }
 .bg-main-800 { background-color: var(--main-800) !important; }
 .bg-main-900 { background-color: var(--main-900) !important; }
@@ -481,7 +481,7 @@ input:focus, input:focus-visible { box-shadow: none; }
 .text-main-300 { color: var(--main-300); }
 .text-main-400 { color: var(--main-400); }
 .text-main-500 { color: var(--main-500); }
-.text-main-600 { color: var(--main-600); }
+.text-main-600 { color: #6a38df; }
 .text-main-700 { color: var(--main-700); }
 .text-main-800 { color: var(--main-800); }
 .text-main-900 { color: var(--main-900); }
@@ -547,7 +547,7 @@ input:focus, input:focus-visible { box-shadow: none; }
 .hover-bg-white:hover { background-color: hsl(var(--white)) !important; }
 
 .text--white { color: hsl(var(--white)); }
-.text-heading { color: #0661e9; }
+.text-heading { color: black; }
 .text-body { color: hsl(var(--body-color)); }
 .text-main { color: var(--main-600); }
 .hover-text-white:hover { color: #fff !important; }
